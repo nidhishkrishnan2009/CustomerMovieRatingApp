@@ -10,7 +10,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.management</groupId>
-	<artifactId>customer</artifactId>
+	<artifactId>CustomerMovieRatingApp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>CustomerApp</name>
 	<description>Movie Rating Application</description>
